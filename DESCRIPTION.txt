@@ -11,3 +11,4 @@ Utworzone funkcje i triggery dają możliwość sporządzić następujące rapor
 10)	Jaki będzie łączny czas drukowania zleconych oddziałowi elementów.
 11)	Czy jest możliwe przyjęcie zgłoszenia zamówienia w danym oddziale aby było zrealizowane w ciągu 36 h roboczych.
 12)	Czy awaria danego urządzenia zagraża czasom poprawnej realizacji zleceń już zgłoszonych w danym oddziale.(TRIGGER)
+Poza tym znajduje się tu również trigger, który nie pozwala na przyjęcie zamówień których realizacja przekroczyłaby 36 godzin roboczych.
