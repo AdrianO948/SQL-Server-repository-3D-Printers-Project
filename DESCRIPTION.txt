@@ -1,0 +1,13 @@
+Utworzone funkcje i triggery dają możliwość sporządzić następujące raporty: 
+1)	Wskaż na jakiej zmianie dane urządzenie uległo awarii
+2)	Wskaż na jakiej zmianie maszyna została naprawiona
+3)	Wskaż jaki był czas postoju danego urządzenia w ciągu zadanego okresu czasu nie wliczając w to czasu kiedy zakład produkcyjny nie pracował (weekendy)
+4)	Jaki był sumaryczny czas postoju wszystkich urządzeń w ciągu zadanego okresu czasu nie wliczając w to czasu kiedy zakład produkcyjny nie pracował (weekendy)
+5)	Wskaż oddział w którym w 2020 roku urządzenia psuły się najczęściej
+6)	Wskaż oddział w którym w 2020 roku był najdłuższy  czas postoju urządzeń.
+7)	Ile % urządzeń jest w poszczególnej fazach awarii w stosunku do ilości wszystkich dostępnych 
+8)	Wskaż na ilu zmianach nie pracowała maszyna (wliczając to zmianę na której zgłoszono awarię i na której uruchomiono ja znów produkcyjnie )
+9)	Ile zamówień ma dany oddział do realizacji.
+10)	Jaki będzie łączny czas drukowania zleconych oddziałowi elementów.
+11)	Czy jest możliwe przyjęcie zgłoszenia zamówienia w danym oddziale aby było zrealizowane w ciągu 36 h roboczych.
+12)	Czy awaria danego urządzenia zagraża czasom poprawnej realizacji zleceń już zgłoszonych w danym oddziale.(TRIGGER)
